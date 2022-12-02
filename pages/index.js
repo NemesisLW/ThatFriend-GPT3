@@ -42,7 +42,7 @@ const Home = () => {
       <div className="container">
         <div className="header">
           <div className="header-title">
-            <h1>The All-Knowing Seer</h1>
+            <h1>That Friend</h1>
           </div>
           <div className="header-subtitle">
             <h2>Ask away whatever troubles you.</h2>
